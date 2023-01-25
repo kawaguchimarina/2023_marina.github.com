@@ -1,8 +1,8 @@
-function imgchange7(){
-if(document.getElementById('answer3')) {
- alert('はずれ！');
+function nazo2() {
+if (document.getElementById('answer2').value=='マシンガンをぶっ放せ') {
+ alert('あたり!');
 }
 else {
- alert('あたり！');
+ alert('はずれ!');
  }
-}
+} 
