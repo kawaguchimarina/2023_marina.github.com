@@ -1,2 +1,2 @@
-function imgchange5() {document.getElementById('logo1').src ="./image/22shisetsu.jpg";}
-function imgchange6() {document.getElementById('logo1').src ="./image/";}
+function imgchange1() {document.getElementById('wada').src ="./image/22shisetsu.jpg";}
+function imgchange2() {document.getElementById('wada').src ="./image/ph_player_2022_63.jpg";}
