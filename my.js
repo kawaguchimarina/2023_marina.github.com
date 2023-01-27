@@ -1,2 +1,3 @@
- alert('Hello, Welcome me Website');
- alert('Have fun');
+ alert('Hello, everyone!!');
+ alert('Have a good time');
+ alert('Nice to me to you!!');
