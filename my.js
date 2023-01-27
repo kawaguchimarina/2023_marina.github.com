@@ -1,4 +1,2 @@
-alert('Hello, everyone!');
-alert('Have fun');
-alert('Nice to me too'!!);
-      
+ alert('Hello, Welcome me Website');
+ alert('Have fun');
